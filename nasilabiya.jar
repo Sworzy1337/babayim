@@ -1,0 +1,2 @@
+cd C:\Users\%username%\AppData\Local\Temp
+Injector.exe --window-name craftrise --inject C:\Users\%username%\AppData\Local\esekadam.dll
